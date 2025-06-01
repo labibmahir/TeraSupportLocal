@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UCMServices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fa7da50c545d685a2ab6387e7200f592102ae1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d6afa4963181fc1d058ae34e00e9d6672efd33e")]
 [assembly: System.Reflection.AssemblyProductAttribute("UCMServices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UCMServices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
