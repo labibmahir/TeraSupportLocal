@@ -1,0 +1,12 @@
+/Users/etl/Desktop/RiderProjects/TeraSupport/TeraSupport/Utilities/bin/Release/net8.0/Utilities.deps.json
+/Users/etl/Desktop/RiderProjects/TeraSupport/TeraSupport/Utilities/bin/Release/net8.0/Utilities.dll
+/Users/etl/Desktop/RiderProjects/TeraSupport/TeraSupport/Utilities/bin/Release/net8.0/Utilities.pdb
+/Users/etl/Desktop/RiderProjects/TeraSupport/TeraSupport/Utilities/obj/Release/net8.0/Utilities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/etl/Desktop/RiderProjects/TeraSupport/TeraSupport/Utilities/obj/Release/net8.0/Utilities.AssemblyInfoInputs.cache
+/Users/etl/Desktop/RiderProjects/TeraSupport/TeraSupport/Utilities/obj/Release/net8.0/Utilities.AssemblyInfo.cs
+/Users/etl/Desktop/RiderProjects/TeraSupport/TeraSupport/Utilities/obj/Release/net8.0/Utilities.csproj.CoreCompileInputs.cache
+/Users/etl/Desktop/RiderProjects/TeraSupport/TeraSupport/Utilities/obj/Release/net8.0/Utilities.sourcelink.json
+/Users/etl/Desktop/RiderProjects/TeraSupport/TeraSupport/Utilities/obj/Release/net8.0/Utilities.dll
+/Users/etl/Desktop/RiderProjects/TeraSupport/TeraSupport/Utilities/obj/Release/net8.0/refint/Utilities.dll
+/Users/etl/Desktop/RiderProjects/TeraSupport/TeraSupport/Utilities/obj/Release/net8.0/Utilities.pdb
+/Users/etl/Desktop/RiderProjects/TeraSupport/TeraSupport/Utilities/obj/Release/net8.0/ref/Utilities.dll

@@ -1,0 +1,39 @@
+{
+  "Routes" : [
+    {
+      "DownstreamPathTemplate": "/api/UserAccount",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5012
+        }
+      ],
+      "UpstreamPathTemplate": "/ts-api/user-account",
+      "UpstreamHttpMethod": [ "POST", "GET" ],
+      "RateLimitOptions" : {
+        "EnableRateLimiting" : true,
+        "Period" : "10s",
+        "Limit" : 5000,
+        "PeriodTimeSpan" : 10
+      },
+      "FileCacheOptions" : {
+        "TtlSeconds": 10
+      }
+      
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/UserAccount/login",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5012
+        }
+      ],
+      "UpstreamPathTemplate": "/ts-api/login",
+      "UpstreamHttpMethod": [ "POST" ]
+    }
+  ]
+}
