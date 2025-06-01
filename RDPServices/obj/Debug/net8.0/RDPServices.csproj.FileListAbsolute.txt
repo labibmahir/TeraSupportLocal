@@ -22,3 +22,15 @@
 /Users/etl/Desktop/RiderProjects/TeraSupport/TeraSupport/RDPServices/obj/Debug/net8.0/refint/RDPServices.dll
 /Users/etl/Desktop/RiderProjects/TeraSupport/TeraSupport/RDPServices/obj/Debug/net8.0/RDPServices.pdb
 /Users/etl/Desktop/RiderProjects/TeraSupport/TeraSupport/RDPServices/obj/Debug/net8.0/ref/RDPServices.dll
+C:\Users\hp\source\repos\TeraSupportLocal\RDPServices\bin\Debug\net8.0\RDPServices.deps.json
+C:\Users\hp\source\repos\TeraSupportLocal\RDPServices\bin\Debug\net8.0\RDPServices.dll
+C:\Users\hp\source\repos\TeraSupportLocal\RDPServices\bin\Debug\net8.0\RDPServices.pdb
+C:\Users\hp\source\repos\TeraSupportLocal\RDPServices\obj\Debug\net8.0\RDPServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\TeraSupportLocal\RDPServices\obj\Debug\net8.0\RDPServices.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TeraSupportLocal\RDPServices\obj\Debug\net8.0\RDPServices.AssemblyInfo.cs
+C:\Users\hp\source\repos\TeraSupportLocal\RDPServices\obj\Debug\net8.0\RDPServices.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TeraSupportLocal\RDPServices\obj\Debug\net8.0\RDPServices.sourcelink.json
+C:\Users\hp\source\repos\TeraSupportLocal\RDPServices\obj\Debug\net8.0\RDPServices.dll
+C:\Users\hp\source\repos\TeraSupportLocal\RDPServices\obj\Debug\net8.0\refint\RDPServices.dll
+C:\Users\hp\source\repos\TeraSupportLocal\RDPServices\obj\Debug\net8.0\RDPServices.pdb
+C:\Users\hp\source\repos\TeraSupportLocal\RDPServices\obj\Debug\net8.0\ref\RDPServices.dll

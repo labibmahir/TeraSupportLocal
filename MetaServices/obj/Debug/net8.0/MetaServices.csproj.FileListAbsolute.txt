@@ -22,3 +22,15 @@
 /Users/etl/Desktop/RiderProjects/TeraSupport/TeraSupport/MetaServices/obj/Debug/net8.0/refint/MetaServices.dll
 /Users/etl/Desktop/RiderProjects/TeraSupport/TeraSupport/MetaServices/obj/Debug/net8.0/MetaServices.pdb
 /Users/etl/Desktop/RiderProjects/TeraSupport/TeraSupport/MetaServices/obj/Debug/net8.0/ref/MetaServices.dll
+C:\Users\hp\source\repos\TeraSupportLocal\MetaServices\bin\Debug\net8.0\MetaServices.deps.json
+C:\Users\hp\source\repos\TeraSupportLocal\MetaServices\bin\Debug\net8.0\MetaServices.dll
+C:\Users\hp\source\repos\TeraSupportLocal\MetaServices\bin\Debug\net8.0\MetaServices.pdb
+C:\Users\hp\source\repos\TeraSupportLocal\MetaServices\obj\Debug\net8.0\MetaServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\TeraSupportLocal\MetaServices\obj\Debug\net8.0\MetaServices.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TeraSupportLocal\MetaServices\obj\Debug\net8.0\MetaServices.AssemblyInfo.cs
+C:\Users\hp\source\repos\TeraSupportLocal\MetaServices\obj\Debug\net8.0\MetaServices.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TeraSupportLocal\MetaServices\obj\Debug\net8.0\MetaServices.sourcelink.json
+C:\Users\hp\source\repos\TeraSupportLocal\MetaServices\obj\Debug\net8.0\MetaServices.dll
+C:\Users\hp\source\repos\TeraSupportLocal\MetaServices\obj\Debug\net8.0\refint\MetaServices.dll
+C:\Users\hp\source\repos\TeraSupportLocal\MetaServices\obj\Debug\net8.0\MetaServices.pdb
+C:\Users\hp\source\repos\TeraSupportLocal\MetaServices\obj\Debug\net8.0\ref\MetaServices.dll
