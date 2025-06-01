@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetaServices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d6afa4963181fc1d058ae34e00e9d6672efd33e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dd1e618b132b16edc8e5f41961741708413b643")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetaServices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetaServices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
