@@ -7824,43 +7824,36 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/etl/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\TeraSupportLocal\\UserManagement\\UserManagement.csproj",
+      "projectUniqueName": "/Users/etl/Desktop/RiderProjects/TeraSuuportLocal/UserManagement/UserManagement.csproj",
       "projectName": "UserManagement",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\TeraSupportLocal\\UserManagement\\UserManagement.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\TeraSupportLocal\\UserManagement\\obj\\",
+      "projectPath": "/Users/etl/Desktop/RiderProjects/TeraSuuportLocal/UserManagement/UserManagement.csproj",
+      "packagesPath": "/Users/etl/.nuget/packages/",
+      "outputPath": "/Users/etl/Desktop/RiderProjects/TeraSuuportLocal/UserManagement/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/etl/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\hp\\source\\repos\\TeraSupportLocal\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\hp\\source\\repos\\TeraSupportLocal\\Infrastructure\\Infrastructure.csproj"
+            "/Users/etl/Desktop/RiderProjects/TeraSuuportLocal/Infrastructure/Infrastructure.csproj": {
+              "projectPath": "/Users/etl/Desktop/RiderProjects/TeraSuuportLocal/Infrastructure/Infrastructure.csproj"
             },
-            "C:\\Users\\hp\\source\\repos\\TeraSupportLocal\\JWTConfiguration\\JWTConfiguration.csproj": {
-              "projectPath": "C:\\Users\\hp\\source\\repos\\TeraSupportLocal\\JWTConfiguration\\JWTConfiguration.csproj"
+            "/Users/etl/Desktop/RiderProjects/TeraSuuportLocal/JWTConfiguration/JWTConfiguration.csproj": {
+              "projectPath": "/Users/etl/Desktop/RiderProjects/TeraSuuportLocal/JWTConfiguration/JWTConfiguration.csproj"
             }
           }
         }
@@ -7921,7 +7914,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
